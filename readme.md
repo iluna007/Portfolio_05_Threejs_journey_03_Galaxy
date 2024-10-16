@@ -7,17 +7,7 @@ Real-time updates when parameters are modified through a GUI interface.
 Smooth camera controls using OrbitControls.
 Spin animation that can be enabled or disabled, with customizable speed.
 Installation
-Clone the repository or download the script.
-Install the required dependencies by running:
-bash
-Copiar código
-npm install three lil-gui
-Create an index.html file and include this script in it.
-Usage
-In the HTML file, create a canvas element with the class webgl:
-html
-Copiar código
-<canvas class="webgl"></canvas>
+
 Run the project in a local development environment using any HTTP server (e.g., http-server, live-server).
 
 Open the project in a web browser. The GUI will allow you to modify the galaxy’s appearance and behavior in real-time.
